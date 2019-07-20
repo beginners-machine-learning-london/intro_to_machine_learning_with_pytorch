@@ -64,12 +64,6 @@ Once you environment is set, and you have it activated, simply run the following
 conda install numpy
 ```
 
-#### Installing Pandas
-
-```conda
-conda install pandas
-```
-
 #### Installing Pytorch
 
 ```conda
