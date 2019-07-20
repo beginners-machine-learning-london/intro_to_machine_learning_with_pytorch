@@ -32,6 +32,7 @@ You can test that you have successfully created a new environment by activating 
 conda activate my_env
 
 (my_env) C:\Users\Username>
+```
 
 Then, you can check what packages have been already installed within your environment using:
 
