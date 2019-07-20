@@ -79,3 +79,4 @@ conda list
 ## Learn More
 
 - [Setting up conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-your-environments)
+- [Codecademy - How to work with Jupyter notebooks - 11 min watch](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks)
