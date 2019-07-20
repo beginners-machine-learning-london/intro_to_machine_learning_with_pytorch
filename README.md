@@ -43,5 +43,5 @@ This workshop consists of two activities:
 ## Learn More
 
 - **Udacity AI Programming Nanodegree**: Enjoyed this workshop? The content was inspired from Udacity's [AI programming with Python nanodegree](https://eu.udacity.com/course/ai-programming-python-nanodegree--nd089).
-- **More advanced application of Pytorch**: Checkout how pytorch was applied to classify pictures of flowers from a large number of classes.
-- ****: [Deep Lizard - Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+- **More advanced application of Pytorch**: [Image Classification with large number of classes](https://github.com/Ali-Parandeh/Udacity_AI_Programming_Nanodegree/blob/master/Project%20-%20Create%20Your%20Own%20Image%20Classifier/Image%20Classifier%20Project.ipynb) - Checkout how I have used pytorch to classify pictures of flowers from a large number of classes.
+- **Foundations of Deep Learning**: [Deep Lizard - Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
