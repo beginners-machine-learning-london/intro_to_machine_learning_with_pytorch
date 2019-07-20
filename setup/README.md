@@ -5,13 +5,13 @@ You are required to download and install the following free softwares for this w
 - [Anaconda Package Manager](https://www.anaconda.com/)
 - [Git Version Control System](https://git-scm.com/)
 
-# Setting up your conda environment
+## Setting up your conda environment
 
 When you download and install Anaconda, you are also installing the latest version of Python, Jupyter Notebooks and several useful data science libarries which are essential for data manipulation and developing machine learning applications.
 
 Main benefit of using Anaconda is having the ability to setup up your own development environment. Often you will need to work with a specific version of Python and associated packages depending on the project requirements.  Having the ability to create new environments and switching between them helps you avoid unnecessary errors. In addition, it enables you to run other people's code or publish your own.
 
-To create a new environment, start the `Anaconda Prompt` and execute the following code to create your own  environment. 
+To create a new environment, start the `Anaconda Prompt` and execute the following code to create your own  environment.
 
 ```conda
 conda create --name my_env
@@ -51,7 +51,6 @@ wincertstore              0.2                      py37_0
 zlib                      1.2.11               h62dcd97_3
 ```
 
-
 ```conda
 (my_env) C:\Users\Username>
 ```
@@ -65,7 +64,6 @@ conda install numpy
 ```
 
 #### Installing Pandas
-
 
 ```conda
 conda install pandas
@@ -82,3 +80,7 @@ Check one last time that you have everything installed and ready to go using:
 ```conda
 conda list
 ```
+
+## Learn More
+
+- [Setting up conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-your-environments)

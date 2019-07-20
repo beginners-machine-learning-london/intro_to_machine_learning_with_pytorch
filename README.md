@@ -6,9 +6,7 @@ In recent years, due to advancements in hardware development, we have been able 
 
 In this workshop, you will implement a small subsection of image classification —digit recognition. Using Pytorch, an open-source Python library developed by Facebook, you will take hand-drawn images of the numbers 0-9 and build and train a neural network to recognise and predict the correct labels for the digits displayed.
 
-This is our first machine learning workshop delivered being at Microsoft Reactor with many more to come. 
-
-This repository contains instructions for setting up your own development environment to get you started with machine and deep learning technologies quick and easy. Workshop assignments for _intro to ML workshop_ is included in the `notebooks` folder.
+This repository contains instructions for setting up your own development environment to get you started with machine and deep learning technologies. Workshop assignments for _intro to ML workshop_ is included in the `notebooks` folder.
 
 ## Prequisites
 
@@ -26,6 +24,16 @@ This workshop consists of two activities:
 2. Completing the Jupyter notebook assignments.
 
 > Note: If you get stuck, take a look at the solutions notebook. It is recommended that you solve your problem as far as you can via googling. Only refer to the solutions notebook if you are frustrated.
+
+## Flow
+
+1. Download and install Anaconda.
+2. Setup your environment using the instructions within the `setup` folder.
+3. Clone this git reposiroty using `git clone https://github.com/beginners-machine-learning-london/intro_to_machine_learning_with_pytorch.git`
+4. Open Jupyter Notebook and complete the code snippets.
+5. Use the Pytorch documentation as required when you get stuck to find example codes you can use.
+6. Train the model.
+7. Measure the accuracy of your trained model. What is the accuracy?
 
 ## Featured technologies
 
