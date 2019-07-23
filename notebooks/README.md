@@ -6,4 +6,4 @@ You are expected to complete the code snippets within the Jupyter notebook. Ulti
 
 ## Flow
 
-Complete the assignments within `Introduction to Pytorch notebook`
+Complete the assignments within `Introduction to Pytorch` notebook.
