@@ -32,6 +32,7 @@ You can test that you have successfully created a new environment by activating 
 conda activate my_env
 
 (my_env) C:\Users\Username>
+```
 
 Then, you can check what packages have been already installed within your environment using:
 
@@ -63,12 +64,6 @@ Once you environment is set, and you have it activated, simply run the following
 conda install numpy
 ```
 
-#### Installing Pandas
-
-```conda
-conda install pandas
-```
-
 #### Installing Pytorch
 
 ```conda
@@ -84,3 +79,4 @@ conda list
 ## Learn More
 
 - [Setting up conda environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#viewing-a-list-of-your-environments)
+- [Codecademy - How to work with Jupyter notebooks - 11 min watch](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks)
