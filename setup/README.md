@@ -3,6 +3,7 @@
 You are required to download and install the following free softwares for this workshop.
 
 - [Anaconda Package Manager](https://www.anaconda.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Git Version Control System](https://git-scm.com/)
 
 ## Setting up your conda environment
@@ -64,17 +65,43 @@ Once you environment is set, and you have it activated, simply run the following
 conda install numpy
 ```
 
-#### Installing Pytorch
+#### Installing Matplotlib
+
+```conda
+conda install matplotlib
+```
+
+#### Installing Pytorch - WINDOWS
 
 ```conda
 conda install pytorch-cpu torchvision-cpu -c pytorch
 ```
+
+#### Installing Pytorch - MacOS
+
+To install pytorch for MacOS you will need to run the following command instead:
+
+```
+conda install pytorch torchvision -c pytorch
+```
+
+#### Test Pytorch Installation
 
 Check one last time that you have everything installed and ready to go using:
 
 ```conda
 conda list
 ```
+
+You can also try importing `torch` and `torchvision` packages. If you don't get any errors, you're good to go.
+
+## Installing Jupyter Notebooks
+
+Open the `Anaconda Navigator` then select your newly created environment `my_env` from the top drop down menu on the main page, then press the `install` button underneath the Jupyter Notebooks card. When installed, press the `launch` button to start the Jupyter notebooks on your browser. Simply navigate to the notebook files we have provided in this repo to open the notebook.
+
+## Starting VS Code via Anaconda Navigator
+
+To ensure your VS code is configured to your environment `my_env`, simply launch VS Code via `Anaconda Navigator` while having your environment selected from the drop down menu.
 
 ## Learn More
 

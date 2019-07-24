@@ -6,5 +6,4 @@ You are expected to complete the code snippets within the Jupyter notebook. Ulti
 
 ## Flow
 
-1. Complete the assignments within `Introduction to tensors notebook`
-2. Complete the assignments within `Introduction to neural networks Pytorch notebook`
+Complete the assignments within `Introduction to Pytorch` notebook.

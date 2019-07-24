@@ -45,3 +45,11 @@ This workshop consists of two activities:
 - **Udacity AI Programming Nanodegree**: Enjoyed this workshop? The content was inspired from Udacity's [AI programming with Python nanodegree](https://eu.udacity.com/course/ai-programming-python-nanodegree--nd089).
 - **More advanced application of Pytorch**: [Image Classification with large number of classes](https://github.com/Ali-Parandeh/Udacity_AI_Programming_Nanodegree/blob/master/Project%20-%20Create%20Your%20Own%20Image%20Classifier/Image%20Classifier%20Project.ipynb) - Checkout how I have used pytorch to classify pictures of flowers from a large number of classes.
 - **Foundations of Deep Learning**: [Deep Lizard - Machine Learning & Deep Learning Fundamentals](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
+
+## Collaboration, Questions and Discussions
+- [**BML Slack Channel**](https://join.slack.com/t/beginnersmach-wlf5812/shared_invite/enQtNzAzODA4OTY3MTcyLWU2ZDMzNGU2YTQ4ZDk5ZjY3OTk1YWU2OGU5NWRmMjM1NzkwM2MwYjk5MDNhZWE1YWVmNzY1MjgzZDk4OGE1OGE) - Join our slack workspace to collaborate with others, discuss ideas and post any questions you have about our group or the workshops
+- Have questions about workshop exercises or setting up your local machine? Post them [**here**](https://app.slack.com/client/TLQ81UB7A/CLHTZDGGZ)
+
+## Workshop Feedback
+
+- How was this workshop? Please provide us with some feedback [**here**](http://tiny.cc/BMLfeedback) so that we can improve the content and delivery of future workshops.
