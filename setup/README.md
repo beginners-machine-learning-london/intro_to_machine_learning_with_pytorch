@@ -9,6 +9,12 @@ You are required to download and install the following free softwares for this w
 
 - Follow instructions [here](https://pytorch.org/get-started/locally/) and [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html) to setup your MacOS environment
 
+To install pytorch you will need to run the following command instead:
+
+```
+conda install pytorch torchvision -c pytorch
+```
+
 ## Setting up your conda environment - WINDOWS ONLY
 
 When you download and install Anaconda, you are also installing the latest version of Python, Jupyter Notebooks and several useful data science libarries which are essential for data manipulation and developing machine learning applications.
