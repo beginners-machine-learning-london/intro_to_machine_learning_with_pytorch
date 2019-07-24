@@ -64,6 +64,12 @@ Once you environment is set, and you have it activated, simply run the following
 conda install numpy
 ```
 
+#### Installing Matplotlib
+
+```conda
+conda install matplotlib
+```
+
 #### Installing Pytorch - WINDOWS
 
 ```conda
