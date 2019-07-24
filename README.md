@@ -48,3 +48,4 @@ This workshop consists of two activities:
 
 ## Collaboration, Questions and Feedback
 - [**BML Slack Channel**](https://join.slack.com/t/beginnersmach-wlf5812/shared_invite/enQtNzAzODA4OTY3MTcyLWU2ZDMzNGU2YTQ4ZDk5ZjY3OTk1YWU2OGU5NWRmMjM1NzkwM2MwYjk5MDNhZWE1YWVmNzY1MjgzZDk4OGE1OGE) - Join our slack workspace to collaborate with others and post any questions or feedback you have about our group or the workshops
+- Have questions about workshop exercises or setting up your local machine? Post them [**here**](https://app.slack.com/client/TLQ81UB7A/CLHTZDGGZ)
