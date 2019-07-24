@@ -5,17 +5,7 @@ You are required to download and install the following free softwares for this w
 - [Anaconda Package Manager](https://www.anaconda.com/)
 - [Git Version Control System](https://git-scm.com/)
 
-## Instructions for setting up MacOS 
-
-- Follow instructions [here](https://pytorch.org/get-started/locally/) to setup your MacOS environment after installing Anaconda for Mac.
-
-To install pytorch you will need to run the following command instead:
-
-```
-conda install pytorch torchvision -c pytorch
-```
-
-## Setting up your conda environment - WINDOWS ONLY
+## Setting up your conda environment
 
 When you download and install Anaconda, you are also installing the latest version of Python, Jupyter Notebooks and several useful data science libarries which are essential for data manipulation and developing machine learning applications.
 
@@ -74,17 +64,29 @@ Once you environment is set, and you have it activated, simply run the following
 conda install numpy
 ```
 
-#### Installing Pytorch
+#### Installing Pytorch - WINDOWS
 
 ```conda
 conda install pytorch-cpu torchvision-cpu -c pytorch
 ```
+
+#### Installing Pytorch - MacOS
+
+To install pytorch for MacOS you will need to run the following command instead:
+
+```
+conda install pytorch torchvision -c pytorch
+```
+
+#### Test Pytorch Installation
 
 Check one last time that you have everything installed and ready to go using:
 
 ```conda
 conda list
 ```
+
+You can also try importing `torch` and `torchvision` packages. If you don't get any errors, you're good to go.
 
 ## Learn More
 
