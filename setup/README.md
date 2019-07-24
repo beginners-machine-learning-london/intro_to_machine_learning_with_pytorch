@@ -7,7 +7,7 @@ You are required to download and install the following free softwares for this w
 
 ## Instructions for setting up MacOS 
 
-- Follow instructions [here](https://pytorch.org/get-started/locally/) and [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html) to setup your MacOS environment
+- Follow instructions [here](https://pytorch.org/get-started/locally/) to setup your MacOS environment after installing Anaconda for Mac.
 
 To install pytorch you will need to run the following command instead:
 
