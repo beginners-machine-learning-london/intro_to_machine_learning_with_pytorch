@@ -52,4 +52,4 @@ This workshop consists of two activities:
 
 ## Workshop Feedback
 
-- How was this workshop? Please provide us with some feedback [**here**](tiny.cc/BMLfeedback) so that we can improve the content and delivery of future workshops.
+- How was this workshop? Please provide us with some feedback [**here**](http://tiny.cc/BMLfeedback) so that we can improve the content and delivery of future workshops.
