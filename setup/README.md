@@ -106,7 +106,7 @@ To verify that you have successfully installed Pytorch, you may import the `torc
 
 ## Starting VS Code via Anaconda Navigator
 
-To ensure that your VS code is configured to your environment `my_env`, simply launch VS Code via `Anaconda Navigator` while after selecting your environment from the drop down menu.
+To ensure that your VS code is configured to your environment `my_env`, simply launch VS Code via `Anaconda Navigator` after selecting your environment from the drop down menu.
 
 ## Learn More
 
